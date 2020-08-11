@@ -4,7 +4,7 @@ In this Python project example, we built a deep neural network model that can c
 ## Dataset
 For this project, we are using the public dataset GTSRB - German Traffic Sign Recognition Benchmark https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html The dataset contains more than 50,000 images of different traffic signs. It is further classified into 43 different classes. 
 
-###### Python Libraries used
+### Python Libraries used
 Keras
 Tensorflow
 OpenCV
@@ -15,7 +15,7 @@ Python Image Classification
 Tkinter
 Numpy
 
-## Algorithm
+### Algorithm
 Step 1: Capture the image.
 Step 2: Break down the image to get 3 layers (Red, Green, Blue).
 Step 3: Select a suitable size(5x5,3x3) and number (32,64) of function blocks.
