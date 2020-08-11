@@ -2,7 +2,7 @@
 In this Python project example, we built a deep neural network model that can classify traffic signs present in the image into 43 different categories. 
 
 ## Dataset
-For this project, we are using the public dataset **GTSRB - German Traffic Sign Recognition Benchmark** https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html. The dataset contains more than 50,000 images of different traffic signs classified into 43 different classes. 
+For this project, we are using the public dataset **[GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)**. The dataset contains more than 50,000 images of different traffic signs classified into 43 different classes. 
 
 ### Python Libraries used
 Keras
